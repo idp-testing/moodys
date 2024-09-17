@@ -1,0 +1,2 @@
+# moodys
+Generated Repository
